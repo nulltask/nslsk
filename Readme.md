@@ -5,7 +5,7 @@
 
 ## Installation
 
-Notice: not yet published on npm.
+Notice: not published on npm yet.
 
     $ npm install -g nslsk
 

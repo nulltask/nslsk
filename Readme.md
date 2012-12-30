@@ -3,6 +3,16 @@
 
   A Node.js Soulseek client writen in pure JavaScript.
 
+## Installation
+
+Notice: not yet published on npm.
+
+    $ npm install -g nslsk
+
+## Usage
+
+    $ nslsk -u <username> -p <password>
+
 ## License
 
     The MIT License
